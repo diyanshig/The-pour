@@ -30,7 +30,7 @@ A modern and responsive web application to explore, search, and create refreshin
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](screenshot/Home Page.png)
+![Home](screenshot/home-page.png)
 
 ### 🍸 Drink Details
 ![Details](screenshot/drink-detail.png)
