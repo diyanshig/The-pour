@@ -30,10 +30,10 @@ A modern and responsive web application to explore, search, and create refreshin
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](screenshot/home-page.png)
+![Home](screenshort/home-page.png)
 
 ### 🍸 Drink Details
-![Details](screenshot/drink-detail.png)
+![Details](screenshort/drink-detail.png)
 
 ## 👩‍💻 Author
 
